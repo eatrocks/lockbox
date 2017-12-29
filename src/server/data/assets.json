@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Emergency Cash",
+        "type": 1,
+        "value": "30000"
+    },
+    {
+        "id": 2,
+        "name": "Gold Coins",
+        "type": 2,
+        "value": "26000"
+    },
+    {
+        "id": 3,
+        "name": "Silver Coins",
+        "type": 3,
+        "value": "150000"
+    }
+]

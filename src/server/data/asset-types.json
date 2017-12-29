@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "Cash"
+    },
+    {
+        "id": 2,
+        "name": "Gold"
+    },
+    {
+        "id": 3,
+        "name": "Silver"
+    },
+    {
+        "id": 4,
+        "name": "Bank Account"
+    }
+
+]
